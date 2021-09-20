@@ -11322,6 +11322,9 @@ header.masthead {
   background-attachment: scroll;
   background-size: cover;
 }
+header.masthead .masthead-avatar {
+  max-width: 8em;
+}
 header.masthead .masthead-content {
   z-index: 1;
   position: relative;
